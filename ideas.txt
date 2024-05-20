@@ -1,0 +1,11 @@
+Things I must consider to filter out the best houses
+- Provide different propType options to customers
+    Assuming the person is either bachelor or married having
+    a family of 4 members min and max 6 members
+    based on:
+        - Price
+        - Location
+        - 2-3 Bathrooms
+        - 2-4 Bedrooms
+        - 1-2 car parking spot 
+        
